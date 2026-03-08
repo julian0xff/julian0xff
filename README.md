@@ -16,5 +16,5 @@ Building native macOS apps and CLI tools.
 
 ## Connect
 
-[![X/Twitter](https://img.shields.io/badge/-@inpeccabble-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/inpeccabble)
+[![X/Twitter](https://img.shields.io/badge/-@julian0xff-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/julian0xff)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julian0xff)
