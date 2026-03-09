@@ -9,7 +9,7 @@ Building native macOS apps and CLI tools.
 
 ## Projects
 
-- 🎙️ **[Dictava](https://github.com/julian0xff/Dictava)** - Local voice dictation for macOS — press a hotkey, speak, text appears at your cursor. Powered by WhisperKit on Apple Silicon, fully offline
+- 🎙️ **[OpenDictator](https://github.com/julian0xff/OpenDictator)** - Local voice dictation for macOS — press a hotkey, speak, text appears at your cursor. Powered by WhisperKit & Parakeet on Apple Silicon, fully offline
 - 📋 **[Clippie](https://github.com/julian0xff/Clippie)** - Clipboard history manager for macOS — search, browse, and re-paste anything you've copied
 - 🚢 **[Portman](https://github.com/julian0xff/Portman)** - Port scanner and process manager for macOS — see what's running on your ports, kill processes, manage Cloudflare tunnels
 - 📎 **[clipcopy](https://github.com/julian0xff/clipcopy)** - Tiny cross-platform clipboard CLI for macOS and Linux — single shell script, no dependencies
